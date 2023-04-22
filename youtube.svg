@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="2048">
+<path style="fill:#ffffff; stroke:none;" d="M0 0L0 2048L2048 2048L2048 0L0 0z"/>
+<path style="fill:#010101; stroke:none;" d="M34 274L34 1774L1874 1774L1874 1698L2014 1698L2014 274L34 274z"/>
+<path style="fill:#ffffff; stroke:none;" d="M402 630L402 1342L770 1342L770 630L402 630M1506 630L1506 1342L1874 1342L1874 630L1506 630z"/>
+</svg>
